@@ -1,0 +1,12 @@
+Névia/
+│
+├── index.html
+├── style.css
+├── script.js
+│
+├── images/
+│   ├── logo.png
+│   ├── cover.jpg
+│   └── products/
+│
+└── admin/
